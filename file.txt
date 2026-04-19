@@ -2,4 +2,8 @@ Hello da, this is my first project
 hi
 test change
 feature update
+<<<<<<< HEAD
 main change
+=======
+feature change
+>>>>>>> feature1
